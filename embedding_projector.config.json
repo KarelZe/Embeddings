@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "Embeddings Of Underlyings (ISE)",
+        "tensorShape": [
+          9115,
+          248
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/KarelZe/Embeddings/main/tensors.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/KarelZe/Embeddings/main/optional.metadata.tsv"
+      }
+    ]
+  }
